@@ -1,8 +1,6 @@
 /* Background */
-.bg {
-    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
-  width: 100%;
-  margin: 0;
+#home {
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
   text-align: center;
 }
 /* Header */
@@ -78,4 +76,16 @@ form input#operator {
 .card {
     border-style: hidden;
     box-shadow: 22px 32px 15px 5px rgba(0,0,0,0.1);
+}
+
+#text {
+  font-size: 20px;
+}
+
+#sub {
+  font-size: 28px;
+}
+
+#arrow {
+  background-color: white;
 }
